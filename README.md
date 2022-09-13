@@ -12,6 +12,11 @@ Neste projeto desenvolvido em JavaScript, através de suas funcionalidades podem
 Caso o jogador jogador erre, há a possibilidade de realizar um novo jogo. Nesta situação, os jogos selecionados serão apagados, fazendo com que o jogador realize um novo jogo.
 
 
+## Tela do Jogo
+
+<img src="https://github.com/rod-lopes/megasena/blob/main/tela1.png?raw=true" alt="Mega Sena">
+
+
 ## Licença
 
 MIT
